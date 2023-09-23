@@ -1,0 +1,33 @@
+Hello World!
+total 124
+drwxr-x--- 23 tonyg tonyg 4096 Sep  3 21:03 .
+drwxr-xr-x  3 root  root  4096 Aug 21 19:46 ..
+-rw-rw-r--  1 tonyg tonyg  104 Aug 21 20:35 .apport-ignore.xml
+-rw-------  1 tonyg tonyg  505 Sep  3 20:33 .bash_history
+-rw-r--r--  1 tonyg tonyg  220 Jan  7  2023 .bash_logout
+-rw-r--r--  1 tonyg tonyg 4108 Sep  3 16:40 .bashrc
+drwx------ 19 tonyg tonyg 4096 Sep  3 20:26 .cache
+drwx------ 19 tonyg tonyg 4096 Sep  1 20:17 .config
+drwxr-xr-x  2 tonyg tonyg 4096 Aug 21 19:47 Desktop
+drwxrwxr-x  3 tonyg tonyg 4096 Aug 21 20:31 dev
+drwxrwxr-x  3 tonyg tonyg 4096 Sep  3 16:35 dev_learning
+drwxr-xr-x  3 tonyg tonyg 4096 Sep  3 20:43 Documents
+drwxrwxr-x  3 tonyg tonyg 4096 Aug 21 20:11 .dotnet
+drwxr-xr-x  2 tonyg tonyg 4096 Sep  3 16:41 Downloads
+-rw-rw-r--  1 tonyg tonyg  108 Sep  3 20:59 .gitconfig
+drwx------  3 tonyg tonyg 4096 Aug 21 20:13 .gnome
+drwx------  2 tonyg tonyg 4096 Sep  3 20:53 .gnupg
+-rw-------  1 tonyg tonyg   20 Sep  3 21:03 .lesshst
+drwx------  4 tonyg tonyg 4096 Aug 21 19:47 .local
+drwxr-xr-x  2 tonyg tonyg 4096 Aug 21 19:47 Music
+drwxr-xr-x  2 tonyg tonyg 4096 Aug 21 19:47 Pictures
+drwx------  3 tonyg tonyg 4096 Aug 21 20:08 .pki
+-rw-r--r--  1 tonyg tonyg  807 Jan  7  2023 .profile
+drwxr-xr-x  2 tonyg tonyg 4096 Aug 21 19:47 Public
+drwxrwxr-x  3 tonyg tonyg 4096 Sep  3 20:48 .rest-client
+drwx------  8 tonyg tonyg 4096 Sep  1 20:24 snap
+drwx------  2 tonyg tonyg 4096 Aug 21 20:28 .ssh
+-rw-r--r--  1 tonyg tonyg    0 Aug 21 20:20 .sudo_as_admin_successful
+drwxr-xr-x  2 tonyg tonyg 4096 Aug 21 19:47 Templates
+drwxr-xr-x  2 tonyg tonyg 4096 Aug 21 19:47 Videos
+drwxrwxr-x  4 tonyg tonyg 4096 Aug 21 20:10 .vscode
